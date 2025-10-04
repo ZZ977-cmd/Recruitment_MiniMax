@@ -1,6 +1,4 @@
 # Recruitment_MiniMax
 
-1.标题
-# MiniMax
-## MiniMax
+这个仓库是用来发jd的
 
