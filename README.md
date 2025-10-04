@@ -1,5 +1,7 @@
-<img width="1149" height="416" alt="image" src="https://github.com/user-attachments/assets/05b6e86e-97a5-4e9c-b274-e3aa4e4a51cf" />
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05b6e86e-97a5-4e9c-b274-e3aa4e4a51cf" width="70%" alt="MiniMax Banner" />
+</p>
+
 
 ## 关于 MiniMax
 [MiniMax](minimaxi.com) 是全球领先的通用人工智能科技公司。自2022年初成立以来，我们以“与所有人共创智能”为使命，致力于推动人工智能科技前沿发展，实现通用人工智能(AGI）。
