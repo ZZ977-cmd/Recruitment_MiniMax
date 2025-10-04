@@ -13,7 +13,7 @@ Hi,大家好！我是 MiniMax 的在职 HR 珍珍，目前正在招聘 **服务�
 
 我们正在寻找有技术热情的工程师，和我们一起构建 **高性能、可扩展的后端系统**，支撑千万级用户的 AI 应用。  
 
-👉 [点这里查看完整职位详情](./job.md)  
+👉 [点这里查看完整职位详情](https://github.com/ZZ977-cmd/Recruitment_MiniMax/blob/main/10_4_jd.md)  
 
 📩 投递简历：**zhenzhen@minimaxi.com**  
 
